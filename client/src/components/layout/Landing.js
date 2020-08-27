@@ -6,10 +6,10 @@ export const Landing = () => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Bodhishare</h1>
+          {/* <h1 className='x-large'>Bodhishare</h1> */}
           <p className='lead'>
-            Find freework for credit, experience, for your community or post
-            freework opportunities
+            {/* Find freework for credit, experience, for your community or post
+            freework opportunities */}
           </p>
           <div className='buttons'>
             <Link to='/register' className='btn btn-primary'>
