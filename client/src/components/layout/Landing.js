@@ -11,7 +11,7 @@ export const Landing = ({ isAuthenticated }) => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Bodhishare</h1>
+          <h1 className='x-large'>freeWurk</h1>
           <p className='lead'>
             Find freework for credit, experience, for your community or post
             freework opportunities

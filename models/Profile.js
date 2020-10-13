@@ -25,6 +25,12 @@ const ProfileSchema = new mongoose.Schema({
   bio: {
     type: String
   },
+  btcaddress: {
+    type: String
+  },
+  ethaddress: {
+    type: String
+  },
   githubusername: {
     type: String
   },
